@@ -232,3 +232,14 @@ data/
 # python
 __pycache__/
 *.pyc
+
+# Kaggle credentials
+kaggle.json
+.kaggle/
+
+# Datasets
+data/
+icbhi_dataset/
+
+# Jupyter
+.ipynb_checkpoints/
